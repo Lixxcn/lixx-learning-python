@@ -1,0 +1,15 @@
+places = ["北京", "上海", "天津", "新疆", "云南"]
+
+print(places)
+print(sorted(places))
+print(places)
+print(sorted(places, reverse=True))
+print(places)
+places.reverse()
+print(places)
+places.reverse()
+print(places)
+places.sort()
+print(places)
+places.sort(reverse=True)
+print(places)
